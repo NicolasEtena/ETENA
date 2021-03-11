@@ -40,7 +40,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -71,8 +71,8 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
-                 "type":"string",
+                 "name":"Exitscene",
+                 "type":"file",
                  "value":"https:\/\/media.giphy.com\/media\/Yx84bF1bunLsyTRfVj\/giphy.gif"
                 }],
          "type":"tilelayer",
