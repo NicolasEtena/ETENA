@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"..\/https:\/\/media.giphy.com\/media\/Yx84bF1bunLsyTRfVj\/giphy.gif"
                 }],
          "type":"tilelayer",
          "visible":true,
