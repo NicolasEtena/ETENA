@@ -71,9 +71,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Exitscene",
-                 "type":"file",
-                 "value":"Tapis.png"
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"https:\/\/media.giphy.com\/media\/Yx84bF1bunLsyTRfVj\/giphy.gif"
                 }],
          "type":"tilelayer",
          "visible":true,
