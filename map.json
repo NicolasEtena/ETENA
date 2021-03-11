@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/media.giphy.com\/media\/Yx84bF1bunLsyTRfVj\/giphy.gif"
+                 "value":"https:\/\/jukebox.today\/etena"
                 }],
          "type":"tilelayer",
          "visible":true,
