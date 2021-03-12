@@ -89,14 +89,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"dansefloor"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jukebox.today\/etena"
+                 "value":"https:\/\/jukebox.today\/"
                 }],
          "type":"tilelayer",
          "visible":true,
