@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/ETENA\/map.json"
+                 "value":"..\/ETENA\/giscrad.html"
                 }],
          "type":"tilelayer",
          "visible":true,
