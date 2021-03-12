@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"..\/giscard.html"
                 }],
          "type":"tilelayer",
          "visible":true,
