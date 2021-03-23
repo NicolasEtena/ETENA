@@ -357,17 +357,6 @@
          "id":47,
          "name":"Trap",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/youtu.be\/0obJfkU9xB4"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
