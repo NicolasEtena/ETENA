@@ -907,46 +907,6 @@
                 }, 
                 {
                  "id":129,
-                 "objectgroup":
-                    {
-                     "draworder":"index",
-                     "id":2,
-                     "name":"",
-                     "objects":[
-                            {
-                             "height":0,
-                             "id":3,
-                             "name":"",
-                             "polygon":[
-                                    {
-                                     "x":0,
-                                     "y":0
-                                    }, 
-                                    {
-                                     "x":16.166354962437,
-                                     "y":0
-                                    }, 
-                                    {
-                                     "x":16.3248486385393,
-                                     "y":25.6759755285764
-                                    }, 
-                                    {
-                                     "x":0.158493676102323,
-                                     "y":25.6759755285764
-                                    }],
-                             "rotation":0,
-                             "type":"",
-                             "visible":true,
-                             "width":0,
-                             "x":15.69087393413,
-                             "y":6.18125336799062
-                            }],
-                     "opacity":1,
-                     "type":"objectgroup",
-                     "visible":true,
-                     "x":0,
-                     "y":0
-                    },
                  "properties":[
                         {
                          "name":"collides",
@@ -1027,15 +987,6 @@
                         }]
                 }, 
                 {
-                 "id":145,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
                  "id":146,
                  "properties":[
                         {
@@ -1106,13 +1057,7 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }, 
                 {
                  "id":152,
